@@ -1,0 +1,4 @@
+version: '3.7'
+services:
+  app:
+    image: "docker.pkg.github.com/jrtapsell/url-redirector/redirect_docker:${TAG}"
